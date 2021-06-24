@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "potion.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-L985/Jest-Another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-L985/Jest-Another-RPG/issues"
+  },
+  "homepage": "https://github.com/Chris-L985/Jest-Another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
